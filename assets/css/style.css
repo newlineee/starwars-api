@@ -1,0 +1,11 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/star.jpg");
+}
+
+#person, #film {
+  margin: 60px;
+  background-color: #ffffffcc;
+  text-align: center;
+}
